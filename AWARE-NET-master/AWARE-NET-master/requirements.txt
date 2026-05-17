@@ -1,0 +1,23 @@
+# Deep Learning & Computer Vision
+torch
+torchvision
+torchaudio
+--index-url https://download.pytorch.org/whl/cu124
+timm>=0.9.0
+
+# Data Processing & Scientific Computing
+pandas
+numpy
+scikit-learn
+
+# Image Processing & Augmentation
+Pillow
+Augmentor
+
+# Visualization
+matplotlib
+seaborn
+
+# Optional but recommended
+tqdm
+wandb
